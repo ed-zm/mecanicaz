@@ -1,0 +1,8 @@
+ node_modules/
+.next/
+.build/
+src/**/*.js
+src/**/*.jsx
+src/**/*.map
+yarn-error.log
+.env

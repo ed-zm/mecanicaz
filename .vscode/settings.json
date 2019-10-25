@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/*.js" : {
+            "when": "$(basename).tsxx"
+        },
+        "**/*.js.map": true
+    }
+}
